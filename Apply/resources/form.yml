@@ -1,0 +1,14 @@
+#APPLY FORM
+form.apply.title: "Apply for Team"
+form.apply.discord: "Enter Discord Name"
+form.apply.realname: "Real Name"
+form.apply.age: "Enter age"
+form.apply.job: "Enter Job"
+form.apply.message: "Your Apply message"
+
+#APPLY EDIT (SUPPORT OR MODS OR ADMINS ETC...)
+form.edit.title: "{TARGET} Apply"
+form.edit.information: "Informations"
+form.edit.from: "You are edit {TARGET}'s apply"
+form.edit.yes: "Yes"
+form.edit.no: "No"

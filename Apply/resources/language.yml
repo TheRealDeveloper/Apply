@@ -1,0 +1,5 @@
+#SENDERRNAME = {NAME}
+#TARGETNAME = {TARGET}
+
+sent.apply: "{NAME} Sent an Apply. Do /apply edit {NAME}"
+you.sent.an.apply: "Thank you for your Apply"

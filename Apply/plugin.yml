@@ -1,0 +1,15 @@
+name: Apply
+main: trd\apply\main
+version: 1.0
+api: 4.0.0
+author: TheRealDeveloper
+
+commands:
+  apply:
+    permission: apply.command
+    description: With this command you can Apply
+permissions:
+  apply.command:
+    default: true
+  apply.command.sup:
+    default: op
